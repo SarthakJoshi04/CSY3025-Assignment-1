@@ -1,0 +1,2 @@
+# California House Price Prediction
+This project implements a machine learning model to predict house prices in California using the California Housing Prices dataset from Kaggle. The model is built with XGBoost, achieving an R² score of 0.83, surpassing the baseline Linear Regression model's R² of 0.64. The project includes data preprocessing, feature engineering, model training, evaluation, and a Streamlit-based user interface for real-time predictions.
